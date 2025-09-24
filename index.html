@@ -67,7 +67,7 @@ function displayClients(list) {
   const results = document.getElementById('results');
   results.innerHTML = '';
   if (list.length === 0) {
-    results.innerHTML = '<div class="no-results">No clients found</div>';
+    results.innerHTML = '<div class="no-results">Cliente não encontrado</div>';
     return;
   }
   list.forEach(client => {
@@ -76,7 +76,11 @@ function displayClients(list) {
     for (const [key, value] of Object.entries(client)) {
       const field = document.createElement('div');
       field.className = 'field';
-      field.innerHTML = `<strong>${key}:</strong> ${value}`;
+      if(!key=="Nome"){
+        field.innerHTML = `<strong>${key}:</strong> ${value}`;
+      } else {
+        field.innerHTML = `<strong>${key}:</strong> ${value} | <strong>${"Cliente de: "}:</strong>${client["Cliente de"]}`;
+      }
       div.appendChild(field);
     }
     results.appendChild(div);
@@ -99,4 +103,5 @@ function displayClients(list) {
 </script>
 </body>
 </html>
+
 
