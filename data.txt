@@ -9,7 +9,7 @@ Data de registro: 19/08/25
 Cliente de: Beiço
 Parcelas: 40
 Parcelas pagas: 1
-Total pago: 2000
+Total pago: 50
 Em aberto: 1950
 Pagamento parcelas: 300
 
@@ -23,7 +23,7 @@ Data de registro: 15/09/25
 Cliente de: Beiço
 Parcelas: 25
 Parcelas pagas: 6
-Total pago: 2000
+Total pago: 480
 Em aberto: 1520
 Pagamento parcelas: 80
 
@@ -37,7 +37,7 @@ Data de registro: 13/08/25
 Cliente de: Beiço
 Parcelas: 40
 Parcelas pagas: 1
-Total pago: 4000
+Total pago: 100
 Em aberto: 3900
 Pagamento parcelas: 900
 
@@ -51,7 +51,7 @@ Data de registro: 07/09/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 14
-Total pago: 1400
+Total pago: 980
 Em aberto: 420
 Pagamento parcelas: 70
 
@@ -91,7 +91,7 @@ Data de registro: 21/08/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 8
-Total pago: 1000
+Total pago: 400
 Em aberto: 600
 Pagamento parcelas: 50
 
@@ -131,7 +131,7 @@ Data de registro: 08/09/25
 Cliente de: Beiço
 Parcelas: 25
 Parcelas pagas: 14
-Total pago: 2000
+Total pago: 1120
 Em aberto: 880
 Pagamento parcelas: 80
 
@@ -145,7 +145,7 @@ Data de registro: 19/08/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 16
-Total pago: 1400
+Total pago: 1120
 Em aberto: 280
 Pagamento parcelas: 630
 
@@ -186,7 +186,7 @@ Data de registro: 11/09/25
 Cliente de: Beiço
 Parcelas: 21
 Parcelas pagas: 9
-Total pago: 1470
+Total pago: 630
 Em aberto: 770
 Pagamento parcelas: 70
 
@@ -213,7 +213,7 @@ Data de registro: 16/08/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 2
-Total pago: 5000
+Total pago: 500
 Em aberto: 4500
 Pagamento parcelas: 500
 
@@ -310,7 +310,7 @@ Data de registro: 24/07/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 2
-Total pago: 1000
+Total pago: 100
 Em aberto: 900
 Pagamento parcelas: 2550
 
@@ -324,7 +324,7 @@ Data de registro: 21/07/25
 Cliente de: Beiço
 Parcelas: 100
 Parcelas pagas: 7
-Total pago: 4000
+Total pago: 280
 Em aberto: 3720
 Pagamento parcelas: 1320
 
@@ -351,7 +351,7 @@ Data de registro: 09/07/25
 Cliente de: Beiço
 Parcelas: 38
 Parcelas pagas: 4
-Total pago: 2280
+Total pago: 240
 Em aberto: 2040
 Pagamento parcelas: 300
 
@@ -365,7 +365,7 @@ Data de registro: 08/09/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 12
-Total pago: 1000
+Total pago: 600
 Em aberto: 400
 Pagamento parcelas: 100
 
@@ -419,7 +419,7 @@ Data de registro: 01/08/25
 Cliente de: Beiço
 Parcelas: 15
 Parcelas pagas: 4
-Total pago: 3750
+Total pago: 1000
 Em aberto: 2750
 Pagamento parcelas: 250
 
@@ -501,7 +501,7 @@ Data de registro: 18/09/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 4
-Total pago: 1260
+Total pago: 252
 Em aberto: 1008
 Pagamento parcelas: 63
 
@@ -515,7 +515,7 @@ Data de registro: 17/09/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 5
-Total pago: 720
+Total pago: 180
 Em aberto: 540
 Pagamento parcelas: 36
 
@@ -529,7 +529,7 @@ Data de registro: 17/09/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 5
-Total pago: 900
+Total pago: 225
 Em aberto: 675
 Pagamento parcelas: 45
 
@@ -543,7 +543,7 @@ Data de registro: 11/08/25
 Cliente de: Beiço
 Parcelas: 21
 Parcelas pagas: 14
-Total pago: 1050
+Total pago: 700
 Em aberto: 300
 Pagamento parcelas: 150
 
@@ -557,7 +557,7 @@ Data de registro: 16/09/25
 Cliente de: Beiço
 Parcelas: 20
 Parcelas pagas: 5
-Total pago: 1080
+Total pago: 270
 Em aberto: 810
 Pagamento parcelas: 54
 
@@ -571,7 +571,7 @@ Data de registro: 14/07/25
 Cliente de: Beiço
 Parcelas: 25
 Parcelas pagas: 9
-Total pago: 2000
+Total pago: 720
 Em aberto: 1280
 Pagamento parcelas: 4320
 
@@ -585,7 +585,7 @@ Data de registro: 11/08/25
 Cliente de: Beiço
 Parcelas: 10
 Parcelas pagas: 0
-Total pago: 3000
+Total pago: 0
 Em aberto: 1360
 Pagamento parcelas: 300
 
@@ -695,7 +695,7 @@ Data de registro: 22/08/25
 Cliente de: Dentista
 Parcelas: 26
 Parcelas pagas: 5
-Total pago: 2080
+Total pago: 400
 Em aberto: 1680
 Pagamento parcelas: 1760
 
@@ -761,7 +761,7 @@ Data de registro: 17/08/25
 Cliente de: Dentista
 Parcelas: 25
 Parcelas pagas: 18
-Total pago: 2000
+Total pago: 1440
 Em aberto: 560
 Pagamento parcelas: 80
 
@@ -815,7 +815,7 @@ Data de registro: 25/08/25
 Cliente de: Dentista
 Parcelas: 70
 Parcelas pagas: 19
-Total pago: 3500
+Total pago: 950
 Em aberto: 2550
 Pagamento parcelas: 50
 
@@ -829,7 +829,7 @@ Data de registro: 29/07/25
 Cliente de: Dentista
 Parcelas: 10
 Parcelas pagas: 0
-Total pago: 5000
+Total pago: 0
 Em aberto: 2000
 Pagamento parcelas: 2500
 
@@ -843,7 +843,7 @@ Data de registro: 28/07/25
 Cliente de: Dentista
 Parcelas: 20
 Parcelas pagas: 6
-Total pago: 760
+Total pago: 228
 Em aberto: 532
 Pagamento parcelas: 1672
 
@@ -857,7 +857,7 @@ Data de registro: 18/08/25
 Cliente de: Dentista
 Parcelas: 70
 Parcelas pagas: 22
-Total pago: 1750
+Total pago: 550
 Em aberto: 1200
 Pagamento parcelas: 100
 
@@ -1001,7 +1001,7 @@ Data de registro: 16/09/25
 Cliente de: Me
 Parcelas: 25
 Parcelas pagas: 10
-Total pago: 500
+Total pago: 200
 Em aberto: 300
 Pagamento parcelas: 20
 
@@ -1028,7 +1028,7 @@ Data de registro: 05/08/25
 Cliente de: Mother
 Parcelas: 4
 Parcelas pagas: 0
-Total pago: 4000
+Total pago: 0
 Em aberto: 4000
 Pagamento parcelas: 1000
 
@@ -1042,7 +1042,7 @@ Data de registro: 13/08/25
 Cliente de: Mother
 Parcelas: 35
 Parcelas pagas: 15
-Total pago: 2800
+Total pago: 1200
 Em aberto: 1600
 Pagamento parcelas: 1280
 
@@ -1070,7 +1070,7 @@ Data de registro: 15/08/25
 Cliente de: Said
 Parcelas: 46
 Parcelas pagas: 27
-Total pago: 2760
+Total pago: 1620
 Em aberto: 1080
 Pagamento parcelas: 180
 
@@ -1123,7 +1123,7 @@ Data de registro: 15/08/25
 Cliente de: Said
 Parcelas: 3
 Parcelas pagas: 0
-Total pago: 1299
+Total pago: 0
 Em aberto: 1
 Pagamento parcelas: 433
 
@@ -1137,7 +1137,7 @@ Data de registro: 28/07/25
 Cliente de: Said
 Parcelas: 22
 Parcelas pagas: 0
-Total pago: 4400
+Total pago: 0
 Em aberto: 4000
 Pagamento parcelas: 450
 
@@ -1218,7 +1218,7 @@ Data de registro: 26/07/25
 Cliente de: Said
 Parcelas: 15
 Parcelas pagas: 3
-Total pago: 3000
+Total pago: 600
 Em aberto: 2400
 Pagamento parcelas: 200
 
@@ -1285,7 +1285,7 @@ Data de registro: 06/08/25
 Cliente de: Said
 Parcelas: 80
 Parcelas pagas: 16
-Total pago: 272000
+Total pago: 54400
 Em aberto: -46400
 Pagamento parcelas: 3400
 
@@ -1312,7 +1312,7 @@ Data de registro: 05/08/25
 Cliente de: Said
 Parcelas: 91
 Parcelas pagas: 16
-Total pago: 9100
+Total pago: 1600
 Em aberto: 7500
 Pagamento parcelas: 200
 
@@ -1326,7 +1326,7 @@ Data de registro: 28/07/25
 Cliente de: Said
 Parcelas: 50
 Parcelas pagas: 39
-Total pago: 2000
+Total pago: 1560
 Em aberto: 440
 Pagamento parcelas: 40
 
@@ -1340,7 +1340,7 @@ Data de registro: 14/08/25
 Cliente de: Said
 Parcelas: 120
 Parcelas pagas: 32
-Total pago: 7200
+Total pago: 1920
 Em aberto: 5280
 Pagamento parcelas: 120
 
@@ -1354,7 +1354,7 @@ Data de registro: 13/08/25
 Cliente de: Said
 Parcelas: 40
 Parcelas pagas: 19
-Total pago: 1600
+Total pago: 760
 Em aberto: 840
 Pagamento parcelas: 40
 
@@ -1368,7 +1368,7 @@ Data de registro: 01/07/25
 Cliente de: Said
 Parcelas: 20
 Parcelas pagas: 1
-Total pago: 10000
+Total pago: 500
 Em aberto: 9500
 Pagamento parcelas: 500
 
@@ -1382,7 +1382,7 @@ Data de registro: 23/07/25
 Cliente de: Said
 Parcelas: 25
 Parcelas pagas: 17
-Total pago: 6000
+Total pago: 4080
 Em aberto: -3840
 Pagamento parcelas: 240
 
@@ -1396,7 +1396,7 @@ Data de registro: 13/08/25
 Cliente de: Said
 Parcelas: 28
 Parcelas pagas: 26
-Total pago: 2240
+Total pago: 2080
 Em aberto: -80
 Pagamento parcelas: 80
 
@@ -1410,7 +1410,7 @@ Data de registro: 17/09/25
 Cliente de: Said
 Parcelas: 24
 Parcelas pagas: 5
-Total pago: 1800
+Total pago: 375
 Em aberto: 1425
 Pagamento parcelas: 75
 
@@ -1463,7 +1463,7 @@ Data de registro: 31/07/25
 Cliente de: Said
 Parcelas: 14
 Parcelas pagas: 5
-Total pago: 4900
+Total pago: 1750
 Em aberto: -350
 Pagamento parcelas: 350
 
@@ -1503,7 +1503,7 @@ Data de registro: 01/08/25
 Cliente de: Said
 Parcelas: 251
 Parcelas pagas: 33
-Total pago: 7530
+Total pago: 990
 Em aberto: 6540
 Pagamento parcelas: 30
 
@@ -1517,7 +1517,7 @@ Data de registro: 28/07/25
 Cliente de: Said
 Parcelas: 86
 Parcelas pagas: 2
-Total pago: 17200
+Total pago: 400
 Em aberto: 2300
 Pagamento parcelas: 1000
 
@@ -1544,7 +1544,7 @@ Data de registro: 23/07/25
 Cliente de: Said
 Parcelas: 3
 Parcelas pagas: 1
-Total pago: 1500
+Total pago: 500
 Em aberto: 550
 Pagamento parcelas: 650
 
@@ -1558,7 +1558,7 @@ Data de registro: 11/08/25
 Cliente de: Said
 Parcelas: 18
 Parcelas pagas: 17
-Total pago: 1080
+Total pago: 1020
 Em aberto: 60
 Pagamento parcelas: 1260
 
@@ -1585,7 +1585,7 @@ Data de registro: 16/08/25
 Cliente de: Said
 Parcelas: 26
 Parcelas pagas: 13
-Total pago: 1482
+Total pago: 741
 Em aberto: 679
 Pagamento parcelas: 114
 
@@ -1717,7 +1717,7 @@ Data de registro: 15/09/25
 Cliente de: Said
 Parcelas: 25
 Parcelas pagas: 7
-Total pago: 2000
+Total pago: 560
 Em aberto: 1440
 Pagamento parcelas: 80
 
@@ -1725,14 +1725,14 @@ Nome: MARLUCE BEZERRA DA SILVA
 Frequência: Diária
 Valor contrato: 1000
 Valor a receber: 1800
-Vencimento: 24/09/25
-Dias vencidos: 0
+Vencimento: 25/09/25
+Dias vencidos: -1
 Data de registro: 15/09/25
 Cliente de: Said
 Parcelas: 24
-Parcelas pagas: 7
-Total pago: 1800
-Em aberto: 1275
+Parcelas pagas: 8
+Total pago: 600
+Em aberto: 1200
 Pagamento parcelas: 75
 
 Nome: WILDESON NEVES SILVA
@@ -1745,7 +1745,7 @@ Data de registro: 15/09/25
 Cliente de: Said
 Parcelas: 27
 Parcelas pagas: 6
-Total pago: 1458
+Total pago: 324
 Em aberto: 1080
 Pagamento parcelas: 54
 
@@ -1759,7 +1759,7 @@ Data de registro: 15/07/25
 Cliente de: Said
 Parcelas: 70
 Parcelas pagas: 1
-Total pago: 2100
+Total pago: 30
 Em aberto: 2070
 Pagamento parcelas: 60
 
@@ -1786,7 +1786,7 @@ Data de registro: 11/09/25
 Cliente de: Said
 Parcelas: 22
 Parcelas pagas: 8
-Total pago: 1100
+Total pago: 400
 Em aberto: 600
 Pagamento parcelas: 100
 
@@ -1813,7 +1813,7 @@ Data de registro: 11/09/25
 Cliente de: Said
 Parcelas: 34
 Parcelas pagas: 11
-Total pago: 1700
+Total pago: 550
 Em aberto: 1150
 Pagamento parcelas: 50
 
@@ -1866,7 +1866,7 @@ Data de registro: 09/09/25
 Cliente de: Said
 Parcelas: 20
 Parcelas pagas: 10
-Total pago: 1000
+Total pago: 500
 Em aberto: 500
 Pagamento parcelas: 50
 
@@ -1893,7 +1893,7 @@ Data de registro: 20/09/25
 Cliente de: Said
 Parcelas: 20
 Parcelas pagas: 2
-Total pago: 900
+Total pago: 90
 Em aberto: 810
 Pagamento parcelas: 45
 
@@ -1920,7 +1920,7 @@ Data de registro: 23/09/25
 Cliente de: Said
 Parcelas: 24
 Parcelas pagas: 0
-Total pago: 1800
+Total pago: 0
 Em aberto: 1800
 Pagamento parcelas: 75
 
@@ -1986,7 +1986,7 @@ Data de registro: 22/09/25
 Cliente de: Said
 Parcelas: 24
 Parcelas pagas: 1
-Total pago: 1800
+Total pago: 75
 Em aberto: 1725
 Pagamento parcelas: 75
 
@@ -2000,7 +2000,7 @@ Data de registro: 15/07/25
 Cliente de: Said
 Parcelas: 39
 Parcelas pagas: 32
-Total pago: 3120
+Total pago: 2560
 Em aberto: 480
 Pagamento parcelas: 720
 
@@ -2014,7 +2014,7 @@ Data de registro: 21/09/25
 Cliente de: Said
 Parcelas: 25
 Parcelas pagas: 2
-Total pago: 1125
+Total pago: 90
 Em aberto: 1035
 Pagamento parcelas: 45
 
@@ -2067,7 +2067,7 @@ Data de registro: 20/09/25
 Cliente de: Said
 Parcelas: 20
 Parcelas pagas: 2
-Total pago: 1000
+Total pago: 100
 Em aberto: 900
 Pagamento parcelas: 50
 
@@ -2094,7 +2094,7 @@ Data de registro: 18/09/25
 Cliente de: Said
 Parcelas: 25
 Parcelas pagas: 1
-Total pago: 1350
+Total pago: 54
 Em aberto: 1242
 Pagamento parcelas: 108
 
@@ -2121,7 +2121,7 @@ Data de registro: 17/09/25
 Cliente de: Said
 Parcelas: 24
 Parcelas pagas: 5
-Total pago: 1632
+Total pago: 340
 Em aberto: 1292
 Pagamento parcelas: 68
 
@@ -2148,7 +2148,7 @@ Data de registro: 22/09/25
 Cliente de: Said
 Parcelas: 30
 Parcelas pagas: 0
-Total pago: 2100
+Total pago: 0
 Em aberto: 2100
 Pagamento parcelas: 70
 
@@ -2162,7 +2162,7 @@ Data de registro: 17/07/25
 Cliente de: Said
 Parcelas: 10
 Parcelas pagas: 0
-Total pago: 3500
+Total pago: 0
 Em aberto: 2500
 Pagamento parcelas: 350
 
@@ -2176,7 +2176,7 @@ Data de registro: 09/09/25
 Cliente de: Said
 Parcelas: 25
 Parcelas pagas: 12
-Total pago: 1800
+Total pago: 864
 Em aberto: 936
 Pagamento parcelas: 72
 
@@ -2204,7 +2204,7 @@ Data de registro: 24/08/25
 Cliente de: Said
 Parcelas: 28
 Parcelas pagas: 15
-Total pago: 1400
+Total pago: 750
 Em aberto: 650
 Pagamento parcelas: 100
 
@@ -2218,7 +2218,7 @@ Data de registro: 24/08/25
 Cliente de: Said
 Parcelas: 15
 Parcelas pagas: 0
-Total pago: 4500
+Total pago: 0
 Em aberto: 3000
 Pagamento parcelas: 900
 
@@ -2272,7 +2272,7 @@ Data de registro: 27/08/25
 Cliente de: Said
 Parcelas: 20
 Parcelas pagas: 15
-Total pago: 1500
+Total pago: 1125
 Em aberto: 375
 Pagamento parcelas: 500
 
@@ -2286,7 +2286,7 @@ Data de registro: 04/08/25
 Cliente de: Said
 Parcelas: 100
 Parcelas pagas: 39
-Total pago: 7000
+Total pago: 2730
 Em aberto: 4270
 Pagamento parcelas: 350
 
@@ -2367,7 +2367,7 @@ Data de registro: 24/07/25
 Cliente de: Said
 Parcelas: 15
 Parcelas pagas: 2
-Total pago: 3000
+Total pago: 400
 Em aberto: 2600
 Pagamento parcelas: 200
 
@@ -2408,7 +2408,7 @@ Data de registro: 25/07/25
 Cliente de: Said
 Parcelas: 180
 Parcelas pagas: 25
-Total pago: 5400
+Total pago: 750
 Em aberto: 4650
 Pagamento parcelas: 30
 
@@ -2463,7 +2463,7 @@ Data de registro: 07/09/25
 Cliente de: Said
 Parcelas: 20
 Parcelas pagas: 3
-Total pago: 1000
+Total pago: 150
 Em aberto: 850
 Pagamento parcelas: 600
 
@@ -2490,7 +2490,7 @@ Data de registro: 06/09/25
 Cliente de: Said
 Parcelas: 63
 Parcelas pagas: 8
-Total pago: 3150
+Total pago: 400
 Em aberto: 2600
 Pagamento parcelas: 150
 
@@ -2556,7 +2556,7 @@ Data de registro: 25/08/25
 Cliente de: Said
 Parcelas: 53
 Parcelas pagas: 13
-Total pago: 3710
+Total pago: 910
 Em aberto: 2590
 Pagamento parcelas: 70
 
@@ -2583,7 +2583,7 @@ Data de registro: 09/09/25
 Cliente de: Said
 Parcelas: 25
 Parcelas pagas: 12
-Total pago: 1800
+Total pago: 864
 Em aberto: 936
 Pagamento parcelas: 72
 
@@ -2623,7 +2623,7 @@ Data de registro: 16/07/25
 Cliente de: Said
 Parcelas: 12
 Parcelas pagas: 0
-Total pago: 4200
+Total pago: 0
 Em aberto: 4200
 Pagamento parcelas: 350
 
@@ -2637,7 +2637,7 @@ Data de registro: 28/08/25
 Cliente de: Said
 Parcelas: 25
 Parcelas pagas: 21
-Total pago: 2000
+Total pago: 1680
 Em aberto: 320
 Pagamento parcelas: 20
 
@@ -2664,7 +2664,7 @@ Data de registro: 27/08/25
 Cliente de: Said
 Parcelas: 5
 Parcelas pagas: 1
-Total pago: 1250
+Total pago: 250
 Em aberto: 2250
 Pagamento parcelas: 250
 
@@ -2744,7 +2744,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 40
 Parcelas pagas: 0
-Total pago: 2720
+Total pago: 0
 Em aberto: 2720
 Pagamento parcelas: 1360
 
@@ -2784,7 +2784,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 30
 Parcelas pagas: 11
-Total pago: 2850
+Total pago: 1045
 Em aberto: 1805
 Pagamento parcelas: 95
 
@@ -2811,7 +2811,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 26
 Parcelas pagas: 18
-Total pago: 2054
+Total pago: 1422
 Em aberto: 632
 Pagamento parcelas: 1264
 
@@ -2825,7 +2825,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 71
 Parcelas pagas: 61
-Total pago: 2556
+Total pago: 2196
 Em aberto: 360
 Pagamento parcelas: 36
 
@@ -2852,7 +2852,7 @@ Data de registro: 23/08/25
 Cliente de: Sysjuros
 Parcelas: 27
 Parcelas pagas: 16
-Total pago: 1620
+Total pago: 960
 Em aberto: 540
 Pagamento parcelas: 120
 
@@ -2945,7 +2945,7 @@ Data de registro: 15/09/25
 Cliente de: Sysjuros
 Parcelas: 25
 Parcelas pagas: 6
-Total pago: 1450
+Total pago: 348
 Em aberto: 1102
 Pagamento parcelas: 58
 
@@ -2972,7 +2972,7 @@ Data de registro: 16/09/25
 Cliente de: Sysjuros
 Parcelas: 28
 Parcelas pagas: 2
-Total pago: 2016
+Total pago: 144
 Em aberto: 1656
 Pagamento parcelas: 72
 
@@ -2986,7 +2986,7 @@ Data de registro: 20/09/25
 Cliente de: Sysjuros
 Parcelas: 24
 Parcelas pagas: 2
-Total pago: 1440
+Total pago: 120
 Em aberto: 1320
 Pagamento parcelas: 60
 
@@ -3000,7 +3000,7 @@ Data de registro: 22/09/25
 Cliente de: Sysjuros
 Parcelas: 6
 Parcelas pagas: 0
-Total pago: 1200
+Total pago: 0
 Em aberto: 1200
 Pagamento parcelas: 250
 
@@ -3170,7 +3170,7 @@ Data de registro: 20/08/25
 Cliente de: Sysjuros
 Parcelas: 30
 Parcelas pagas: 25
-Total pago: 1440
+Total pago: 1200
 Em aberto: 240
 Pagamento parcelas: 48
 
@@ -3184,7 +3184,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 50
 Parcelas pagas: 4
-Total pago: 25000
+Total pago: 2000
 Em aberto: 23000
 Pagamento parcelas: 500
 
@@ -3302,7 +3302,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 15
 Parcelas pagas: 0
-Total pago: 4500
+Total pago: 0
 Em aberto: 4500
 Pagamento parcelas: 300
 
@@ -3329,7 +3329,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 40
 Parcelas pagas: 0
-Total pago: 12000
+Total pago: 0
 Em aberto: 12000
 Pagamento parcelas: 300
 
@@ -3382,7 +3382,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 6
 Parcelas pagas: 0
-Total pago: 1500
+Total pago: 0
 Em aberto: 1500
 Pagamento parcelas: 250
 
@@ -3422,7 +3422,7 @@ Data de registro: 23/07/25
 Cliente de: Sysjuros
 Parcelas: 37
 Parcelas pagas: 35
-Total pago: 2590
+Total pago: 2450
 Em aberto: -70
 Pagamento parcelas: 70
 
