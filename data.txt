@@ -1,0 +1,41 @@
+Nome: DANIEL ALBUQUERQUE PINTO
+Frequência: Diária
+Valor contrato: 1000
+Valor a receber: 1800
+Vencimento: 24/09/25
+Dias vencidos: 0
+Data de registro: 17/09/25
+Cliente de: Said
+Parcelas: 24
+Parcelas pagas: 5
+Total pago: 1800
+Em aberto: 1425
+Pagamento parcelas: 75
+
+Nome: VANUSA DE JESUS
+Frequência: Semanal
+Valor contrato: 1000
+Valor a receber: 1400
+Vencimento: 27/09/25
+Dias vencidos: -3
+Data de registro: 31/07/25
+Cliente de: Said
+Parcelas: 14
+Parcelas pagas: 5
+Total pago: 4900
+Em aberto: -350
+Pagamento parcelas: 350
+
+Nome: MILLA CRISTIAN MACENA DE OLIVEIRA
+Frequência: Diária
+Valor contrato: 0
+Valor a receber: 7200
+Vencimento: 23/09/25
+Dias vencidos: 1
+Data de registro: 14/08/25
+Cliente de: Said
+Parcelas: 120
+Parcelas pagas: 32
+Total pago: 7200
+Em aberto: 5280
+Pagamento parcelas: 120
