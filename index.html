@@ -76,7 +76,7 @@ function displayClients(list) {
     for (const [key, value] of Object.entries(client)) {
       const field = document.createElement('div');
       field.className = 'field';
-      field.innerHTML = `<strong>${key}:</strong> ${value}` + ${key=="Nome: " ? `| <strong>${"Cliente de: "}:</strong>${client["Cliente de"]}}` : ""};
+      field.innerHTML = `<strong>${key}:</strong> ${value}` + (key=="Nome" ? `| <strong>Cliente de: </strong> ${client["Cliente de"]}` : "")
       div.appendChild(field);
     }
     results.appendChild(div);
@@ -99,6 +99,7 @@ function displayClients(list) {
 </script>
 </body>
 </html>
+
 
 
 
