@@ -126,8 +126,8 @@ Parcelas: 25
 Parcelas pagas: 9
 Total pago: 720
 Em aberto: 1280
-Valor parcela: 4400
-Pagamento esperado: 80
+Valor parcela: 80
+Pagamento esperado: 4400
 
 Nome: SILVESTRE RODRIGUES GUIMARÃES NETO
 Frequência: Diária
@@ -141,8 +141,8 @@ Parcelas: 25
 Parcelas pagas: 6
 Total pago: 480
 Em aberto: 1520
-Valor parcela: 160
-Pagamento esperado: 80
+Valor parcela: 80
+Pagamento esperado: 160
 
 Nome: ALTENIZA MESQUITA DE ALMEIDA
 Frequência: Diária
@@ -156,8 +156,8 @@ Parcelas: 40
 Parcelas pagas: 1
 Total pago: 100
 Em aberto: 3900
-Valor parcela: 1000
-Pagamento esperado: 100
+Valor parcela: 100
+Pagamento esperado: 1000
 
 Nome: ROCIVALDO DA SILVA LIMA JUNIOR
 Frequência: Diária
@@ -215,8 +215,8 @@ Parcelas: 20
 Parcelas pagas: 2
 Total pago: 500
 Em aberto: 4500
-Valor parcela: 500
-Pagamento esperado: 250
+Valor parcela: 250
+Pagamento esperado: 500
 
 Nome: YASMIN MEDEIROS DE OLIVEIRA
 Frequência: Diária
@@ -230,8 +230,8 @@ Parcelas: 20
 Parcelas pagas: 12
 Total pago: 600
 Em aberto: 400
-Valor parcela: 150
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 150
 
 Nome: DJANE AREB DOS SANTOS_
 Frequência: Quinzenal
@@ -318,8 +318,8 @@ Parcelas: 21
 Parcelas pagas: 9
 Total pago: 630
 Em aberto: 770
-Valor parcela: 140
-Pagamento esperado: 70
+Valor parcela: 70
+Pagamento esperado: 140
 
 Nome: REINALDO GENTIL DO CARMO
 Frequência: Semanal
@@ -347,8 +347,8 @@ Parcelas: 20
 Parcelas pagas: 16
 Total pago: 1120
 Em aberto: 280
-Valor parcela: 700
-Pagamento esperado: 70
+Valor parcela: 70
+Pagamento esperado: 700
 
 Nome: JOSE GABRIEL DE ARAUJO MOREIRA_
 Frequência: Diária
@@ -362,8 +362,8 @@ Parcelas: 40
 Parcelas pagas: 1
 Total pago: 50
 Em aberto: 1950
-Valor parcela: 350
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 350
 
 Nome: ANDREZA SOUZA BARBOSA
 Frequência: Diária
@@ -466,8 +466,8 @@ Parcelas: 20
 Parcelas pagas: 2
 Total pago: 100
 Em aberto: 900
-Valor parcela: 2600
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 2600
 
 Nome: FABIANA VICTORIA BRANDAO DE SOUSA
 Frequência: Diária
@@ -481,8 +481,8 @@ Parcelas: 100
 Parcelas pagas: 7
 Total pago: 280
 Em aberto: 3720
-Valor parcela: 1360
-Pagamento esperado: 40
+Valor parcela: 40
+Pagamento esperado: 1360
 
 Nome: AMANDA NOGUEIRA BARBOSA
 Frequência: Semanal
@@ -630,8 +630,8 @@ Parcelas: 21
 Parcelas pagas: 14
 Total pago: 700
 Em aberto: 300
-Valor parcela: 200
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 200
 
 Nome: SUELY ALVES DE LIMA
 Frequência: Semanal
@@ -658,8 +658,8 @@ Cliente de: Beiço
 Juros: 20.8%
 Vezes pago: 4
 Total pago: 1000
-Valor juros: 750
-Pagamento esperado: 250
+Valor juros: 250
+Pagamento esperado: 750
 
 Nome: MONICA NUNES MARREIROS LIMA
 Frequência: Diária
@@ -746,8 +746,8 @@ Parcelas: 10
 Parcelas pagas: 0
 Total pago: 0
 Em aberto: 2000
-Valor parcela: 3000
-Pagamento esperado: 500
+Valor parcela: 500
+Pagamento esperado: 3000
 
 Nome: WELLINGTON FERNANDES DE ALMEIDA
 Frequência: Mensal
@@ -820,8 +820,8 @@ Parcelas: 20
 Parcelas pagas: 6
 Total pago: 228
 Em aberto: 532
-Valor parcela: 1710
-Pagamento esperado: 38
+Valor parcela: 38
+Pagamento esperado: 1710
 
 Nome: ANA CLEIDE RODRIGUES SOUZA
 Frequência: Mensal
@@ -849,8 +849,8 @@ Parcelas: 26
 Parcelas pagas: 5
 Total pago: 400
 Em aberto: 1680
-Valor parcela: 1840
-Pagamento esperado: 80
+Valor parcela: 80
+Pagamento esperado: 1840
 
 Nome: GIOVANE RODRIGUES FALCONE_
 Frequência: Mensal
@@ -891,8 +891,8 @@ Cliente de: Dentista
 Juros: 40%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 2000
-Pagamento esperado: 200
+Valor juros: 200
+Pagamento esperado: 2000
 
 Nome: FABIOLA NERI COSTA
 Frequência: Diária
@@ -950,8 +950,8 @@ Parcelas: 70
 Parcelas pagas: 24
 Total pago: 600
 Em aberto: 1150
-Valor parcela: 75
-Pagamento esperado: 25
+Valor parcela: 25
+Pagamento esperado: 75
 
 Nome: YTHALO PEREIRA DE JESUS
 Frequência: Mensal
@@ -1149,8 +1149,8 @@ Parcelas: 35
 Parcelas pagas: 15
 Total pago: 1200
 Em aberto: 1600
-Valor parcela: 1360
-Pagamento esperado: 80
+Valor parcela: 80
+Pagamento esperado: 1360
 
 Nome: RUBENS AVELINO DA SILVA
 Frequência: Semanal
@@ -1178,8 +1178,8 @@ Parcelas: 18
 Parcelas pagas: 17
 Total pago: 1020
 Em aberto: 60
-Valor parcela: 1320
-Pagamento esperado: 60
+Valor parcela: 60
+Pagamento esperado: 1320
 
 Nome: WESLEY SILVA PEREIRA
 Frequência: Diária
@@ -1193,8 +1193,8 @@ Parcelas: 91
 Parcelas pagas: 16
 Total pago: 1600
 Em aberto: 7500
-Valor parcela: 300
-Pagamento esperado: 100
+Valor parcela: 100
+Pagamento esperado: 300
 
 Nome: ORLANY DE SOUZA ALVES
 Frequência: Semanal
@@ -1208,8 +1208,8 @@ Parcelas: 22
 Parcelas pagas: 0
 Total pago: 0
 Em aberto: 4000
-Valor parcela: 450
-Pagamento esperado: 200
+Valor parcela: 200
+Pagamento esperado: 450
 
 Nome: ALCINEY SILVA DOS SANTOS JUNIOR
 Frequência: Semanal
@@ -1338,8 +1338,8 @@ Cliente de: Said
 Juros: 25%
 Vezes pago: 1
 Total pago: 250
-Valor juros: 1250
-Pagamento esperado: 250
+Valor juros: 250
+Pagamento esperado: 1250
 
 Nome: GUTEMBERG GONCALVES DE SOUZA
 Frequência: Semanal
@@ -1352,8 +1352,8 @@ Cliente de: Said
 Juros: 25%
 Vezes pago: 3
 Total pago: 750
-Valor juros: 1350
-Pagamento esperado: 250
+Valor juros: 250
+Pagamento esperado: 1350
 
 Nome: ISRAEL FERREIRA DOS SANTOS
 Frequência: Diária
@@ -1440,8 +1440,8 @@ Cliente de: Said
 Juros: 25%
 Vezes pago: 2
 Total pago: 250
-Valor juros: 375
-Pagamento esperado: 125
+Valor juros: 125
+Pagamento esperado: 375
 
 Nome: ROMULO DA GAMA BARBOSA
 Frequência: Diária
@@ -1455,8 +1455,8 @@ Parcelas: 26
 Parcelas pagas: 13
 Total pago: 741
 Em aberto: 679
-Valor parcela: 171
-Pagamento esperado: 57
+Valor parcela: 57
+Pagamento esperado: 171
 
 Nome: Gabriel Alves De Souza
 Frequência: Personalizado
@@ -1499,8 +1499,8 @@ Parcelas: 46
 Parcelas pagas: 28
 Total pago: 1680
 Em aberto: 1020
-Valor parcela: 180
-Pagamento esperado: 60
+Valor parcela: 60
+Pagamento esperado: 180
 
 Nome: FLAIDIMIR RIBEIRO BENTO
 Frequência: Semanal
@@ -1572,8 +1572,8 @@ Parcelas: 3
 Parcelas pagas: 1
 Total pago: 500
 Em aberto: 550
-Valor parcela: 650
-Pagamento esperado: 500
+Valor parcela: 500
+Pagamento esperado: 650
 
 Nome: JUCIVAL SOUSA DOS SANTOS
 Frequência: Semanal
@@ -1586,8 +1586,8 @@ Cliente de: Said
 Juros: 25%
 Vezes pago: 1
 Total pago: 250
-Valor juros: 1000
-Pagamento esperado: 250
+Valor juros: 250
+Pagamento esperado: 1000
 
 Nome: JERDESON DA SILVA BARBOSA
 Frequência: Semanal
@@ -1615,8 +1615,8 @@ Parcelas: 86
 Parcelas pagas: 2
 Total pago: 400
 Em aberto: 2300
-Valor parcela: 1000
-Pagamento esperado: 200
+Valor parcela: 200
+Pagamento esperado: 1000
 
 Nome: GISELE DE SOUZA CORREA
 Frequência: Personalizado
@@ -1644,8 +1644,8 @@ Parcelas: 120
 Parcelas pagas: 32
 Total pago: 1920
 Em aberto: 5280
-Valor parcela: 180
-Pagamento esperado: 60
+Valor parcela: 60
+Pagamento esperado: 180
 
 Nome: VALDINEI NASCIMENTO ALMEIRO
 Frequência: Semanal
@@ -1688,8 +1688,8 @@ Parcelas: 28
 Parcelas pagas: 26
 Total pago: 2080
 Em aberto: -80
-Valor parcela: 160
-Pagamento esperado: 80
+Valor parcela: 80
+Pagamento esperado: 160
 
 Nome: MILENA DA SILVA FIGUEIREDO
 Frequência: Semanal
@@ -1762,8 +1762,8 @@ Parcelas: 27
 Parcelas pagas: 6
 Total pago: 324
 Em aberto: 1080
-Valor parcela: 108
-Pagamento esperado: 54
+Valor parcela: 54
+Pagamento esperado: 108
 
 Nome: MARLUCE BEZERRA DA SILVA
 Frequência: Diária
@@ -1948,8 +1948,8 @@ Parcelas: 22
 Parcelas pagas: 9
 Total pago: 450
 Em aberto: 550
-Valor parcela: 100
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 100
 
 Nome: WESLEY SILVA PEREIRA
 Frequência: Semanal
@@ -2005,8 +2005,8 @@ Cliente de: Said
 Juros: 34%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 340
-Pagamento esperado: 170
+Valor juros: 170
+Pagamento esperado: 340
 
 Nome: ANDRE WINTER
 Frequência: Semanal
@@ -2148,8 +2148,8 @@ Cliente de: Said
 Juros: 25%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 1680
-Pagamento esperado: 560
+Valor juros: 560
+Pagamento esperado: 1680
 
 Nome: JOHNNY ALEF GAMA FRANCELINO_
 Frequência: Semanal
@@ -2177,8 +2177,8 @@ Parcelas: 70
 Parcelas pagas: 1
 Total pago: 30
 Em aberto: 2070
-Valor parcela: 90
-Pagamento esperado: 30
+Valor parcela: 30
+Pagamento esperado: 90
 
 Nome: DARA ALMEIDA DE OLIVEIRA
 Frequência: Diária
@@ -2264,8 +2264,8 @@ Parcelas: 20
 Parcelas pagas: 2
 Total pago: 100
 Em aberto: 900
-Valor parcela: 100
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 100
 
 Nome: MILE DA SILVA SOUZA
 Frequência: Semanal
@@ -2293,8 +2293,8 @@ Parcelas: 25
 Parcelas pagas: 1
 Total pago: 54
 Em aberto: 1242
-Valor parcela: 162
-Pagamento esperado: 54
+Valor parcela: 54
+Pagamento esperado: 162
 
 Nome: GARDNER TAAT GOMES
 Frequência: Semanal
@@ -2367,8 +2367,8 @@ Parcelas: 20
 Parcelas pagas: 10
 Total pago: 500
 Em aberto: 500
-Valor parcela: 100
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 100
 
 Nome: ISLAENI SILVA DOS SANTOS
 Frequência: Semanal
@@ -2397,8 +2397,8 @@ Parcelas: 28
 Parcelas pagas: 15
 Total pago: 750
 Em aberto: 650
-Valor parcela: 150
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 150
 
 Nome: THAYLAN PEREIRA DE MELO_
 Frequência: Semanal
@@ -2412,8 +2412,8 @@ Parcelas: 15
 Parcelas pagas: 0
 Total pago: 0
 Em aberto: 3000
-Valor parcela: 900
-Pagamento esperado: 300
+Valor parcela: 300
+Pagamento esperado: 900
 
 Nome: WELLITON RODRIGUES CADEIRA
 Frequência: Semanal
@@ -2470,8 +2470,8 @@ Parcelas: 20
 Parcelas pagas: 15
 Total pago: 1125
 Em aberto: 375
-Valor parcela: 575
-Pagamento esperado: 75
+Valor parcela: 75
+Pagamento esperado: 575
 
 Nome: ALDA RAMOS RIBEIRO
 Frequência: Diária
@@ -2631,8 +2631,8 @@ Parcelas: 100
 Parcelas pagas: 39
 Total pago: 2730
 Em aberto: 4270
-Valor parcela: 420
-Pagamento esperado: 70
+Valor parcela: 70
+Pagamento esperado: 420
 
 Nome: NATHASHA KARINE DAMASCENO SILVA
 Frequência: Semanal
@@ -2660,8 +2660,8 @@ Parcelas: 180
 Parcelas pagas: 25
 Total pago: 750
 Em aberto: 4650
-Valor parcela: 60
-Pagamento esperado: 30
+Valor parcela: 30
+Pagamento esperado: 60
 
 Nome: NAYARA DOS SANTOS SOUZA
 Frequência: Semanal
@@ -2689,8 +2689,8 @@ Parcelas: 20
 Parcelas pagas: 3
 Total pago: 150
 Em aberto: 850
-Valor parcela: 650
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 650
 
 Nome: DIADORIM RIBEIRO DA SILVA
 Frequência: Semanal
@@ -2703,8 +2703,8 @@ Cliente de: Said
 Juros: 34%
 Vezes pago: 0
 Total pago: 0
-Valor juros: 340
-Pagamento esperado: 170
+Valor juros: 170
+Pagamento esperado: 340
 
 Nome: ITALO MUNIZ GUEDES
 Frequência: Diária
@@ -2718,8 +2718,8 @@ Parcelas: 63
 Parcelas pagas: 8
 Total pago: 400
 Em aberto: 2600
-Valor parcela: 200
-Pagamento esperado: 50
+Valor parcela: 50
+Pagamento esperado: 200
 
 Nome: DIANA CLISSIA DE BRITO BORRALHO
 Frequência: Semanal
@@ -2789,8 +2789,8 @@ Cliente de: Said
 Juros: 39.2%
 Vezes pago: 1
 Total pago: 195
-Valor juros: 390
-Pagamento esperado: 195
+Valor juros: 195
+Pagamento esperado: 390
 
 Nome: JACKSON MENEZES PEREIRA
 Frequência: Diária
@@ -2846,8 +2846,8 @@ Cliente de: Said
 Juros: 25%
 Vezes pago: 8
 Total pago: 2000
-Valor juros: 500
-Pagamento esperado: 250
+Valor juros: 250
+Pagamento esperado: 500
 
 Nome: DANIEL PEIXOTO FERREIRA
 Frequência: Mensal
@@ -2876,8 +2876,8 @@ Parcelas: 25
 Parcelas pagas: 21
 Total pago: 1680
 Em aberto: 320
-Valor parcela: 20
-Pagamento esperado: 80
+Valor parcela: 80
+Pagamento esperado: 20
 
 Nome: RYAN BRENO ALBUQUERQUE DE ALENCAR
 Frequência: Semanal
@@ -2991,8 +2991,8 @@ Parcelas: 40
 Parcelas pagas: 0
 Total pago: 0
 Em aberto: 2720
-Valor parcela: 1428
-Pagamento esperado: 68
+Valor parcela: 68
+Pagamento esperado: 1428
 
 Nome: Sandra Regina Sousa Ferreira
 Frequência: Semanal
@@ -3048,8 +3048,8 @@ Cliente de: Sysjuros
 Juros: 15%
 Vezes pago: 4
 Total pago: 1984
-Valor juros: 2480
-Pagamento esperado: 496
+Valor juros: 496
+Pagamento esperado: 2480
 
 Nome: MARIA FRANCILEIDE LIMA DE SOUZA_
 Frequência: Diária
@@ -3063,8 +3063,8 @@ Parcelas: 26
 Parcelas pagas: 18
 Total pago: 1422
 Em aberto: 632
-Valor parcela: 1343
-Pagamento esperado: 79
+Valor parcela: 79
+Pagamento esperado: 1343
 
 Nome: DIJACI JOSE DA SILVA
 Frequência: Diária
@@ -3107,8 +3107,8 @@ Parcelas: 27
 Parcelas pagas: 17
 Total pago: 1020
 Em aberto: 480
-Valor parcela: 120
-Pagamento esperado: 60
+Valor parcela: 60
+Pagamento esperado: 120
 
 Nome: Ladislal Pereira Da Encarnação
 Frequência: Diária
@@ -3136,8 +3136,8 @@ Cliente de: Sysjuros
 Juros: 15%
 Vezes pago: 4
 Total pago: 780
-Valor juros: 1365
-Pagamento esperado: 195
+Valor juros: 195
+Pagamento esperado: 1365
 
 Nome: THAIANO DA SILVA ALMEIDA
 Frequência: Semanal
@@ -3150,8 +3150,8 @@ Cliente de: Sysjuros
 Juros: 25%
 Vezes pago: 1
 Total pago: 190
-Valor juros: 380
-Pagamento esperado: 190
+Valor juros: 190
+Pagamento esperado: 380
 
 Nome: João Macelo Do Vale Martins
 Frequência: Semanal
@@ -3236,8 +3236,8 @@ Parcelas: 28
 Parcelas pagas: 2
 Total pago: 144
 Em aberto: 1656
-Valor parcela: 144
-Pagamento esperado: 72
+Valor parcela: 72
+Pagamento esperado: 144
 
 Nome: Whasley Do Prado
 Frequência: Diária
@@ -3266,8 +3266,8 @@ Parcelas: 6
 Parcelas pagas: 0
 Total pago: 0
 Em aberto: 1200
-Valor parcela: 250
-Pagamento esperado: 200
+Valor parcela: 200
+Pagamento esperado: 250
 
 Nome: VANDENILSON OLIVEIRA
 Frequência: Personalizado
@@ -3434,8 +3434,8 @@ Cliente de: Sysjuros
 Juros: 15%
 Vezes pago: 1
 Total pago: 160
-Valor juros: 480
-Pagamento esperado: 160
+Valor juros: 160
+Pagamento esperado: 480
 
 Nome: Antonio Carlos Sousa
 Frequência: Diária
@@ -3449,8 +3449,8 @@ Parcelas: 30
 Parcelas pagas: 25
 Total pago: 1200
 Em aberto: 240
-Valor parcela: 96
-Pagamento esperado: 48
+Valor parcela: 48
+Pagamento esperado: 96
 
 Nome: Francisca Maria Da Silva
 Frequência: Semanal
@@ -3492,8 +3492,8 @@ Cliente de: Sysjuros
 Juros: 15%
 Vezes pago: 5
 Total pago: 750
-Valor juros: 600
-Pagamento esperado: 150
+Valor juros: 150
+Pagamento esperado: 600
 
 Nome: Claudio Pereira Da Silva
 Frequência: Semanal
@@ -3563,8 +3563,8 @@ Cliente de: Sysjuros
 Juros: 15%
 Vezes pago: 3
 Total pago: 495
-Valor juros: 1155
-Pagamento esperado: 165
+Valor juros: 165
+Pagamento esperado: 1155
 
 Nome: Francilene Lima Brito
 Frequência: Semanal
@@ -3606,8 +3606,8 @@ Cliente de: Sysjuros
 Juros: 15%
 Vezes pago: 8
 Total pago: 1200
-Valor juros: 450
-Pagamento esperado: 150
+Valor juros: 150
+Pagamento esperado: 450
 
 Nome: SARA JHANY FEITOSA DE SOUSA_
 Frequência: Semanal
@@ -3663,8 +3663,8 @@ Cliente de: Sysjuros
 Juros: 15%
 Vezes pago: 8
 Total pago: 960
-Valor juros: 240
-Pagamento esperado: 120
+Valor juros: 120
+Pagamento esperado: 240
 
 Nome: Andresa Lopes Da Silva
 Frequência: Semanal
@@ -3721,8 +3721,8 @@ Parcelas: 37
 Parcelas pagas: 35
 Total pago: 2450
 Em aberto: -70
-Valor parcela: 140
-Pagamento esperado: 70
+Valor parcela: 70
+Pagamento esperado: 140
 
 Nome: DARLYSON SILVA DA SILVA
 Frequência: Semanal
